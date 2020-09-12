@@ -1,0 +1,79 @@
+aniso8601==8.0.0
+argon2-cffi @ file:///D:/bld/argon2-cffi_1596629999983/work
+async-generator==1.10
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1599308529326/work
+backports.functools-lru-cache==1.6.1
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
+certifi==2020.6.20
+cffi @ file:///D:/bld/cffi_1595805752074/work
+click==7.1.2
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+Flask==1.1.2
+Flask-RESTful==0.3.8
+hdbscan @ file:///D:/bld/hdbscan_1589306160032/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211549301/work
+ipykernel @ file:///D:/bld/ipykernel_1595447100255/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython==5.8.0
+ipython-genutils==0.2.0
+ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1599554010055/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
+jsonschema==3.2.0
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
+jupyter-console==5.2.0
+jupyter-core==4.6.3
+jupyterlab-pygments==0.1.1
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib @ file:///D:/bld/matplotlib-base_1597952492661/work
+mistune==0.8.4
+mkl-service==2.3.0
+nbclient @ file:///home/conda/feedstock_root/build_artifacts/nbclient_1598558657104/work
+nbconvert @ file:///D:/bld/nbconvert_1599750541221/work
+nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
+nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1594996608835/work
+notebook @ file:///D:/bld/notebook_1599742459479/work
+numpy @ file:///D:/bld/numpy_1597938531371/work
+olefile==0.46
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas @ file:///D:/bld/pandas_1599601182795/work
+pandocfilters==1.4.2
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1594212354952/work
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
+prompt-toolkit==1.0.15
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+Pygments==2.6.1
+pyparsing==2.4.7
+PyQt5==5.12.3
+PyQt5-sip==4.19.18
+PyQtWebEngine==5.12.1
+pyrsistent @ file:///D:/bld/pyrsistent_1599675480577/work
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.2
+qtconsole @ file:///home/conda/feedstock_root/build_artifacts/qtconsole_1599147533948/work
+QtPy==1.9.0
+scikit-learn @ file:///D:/bld/scikit-learn_1596546338654/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+Send2Trash==1.5.0
+simplegeneric==0.8.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1595859607677/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension @ file:///D:/bld/widgetsnbextension_1594164575581/work
+wincertstore==0.2
+zipp==3.1.0
